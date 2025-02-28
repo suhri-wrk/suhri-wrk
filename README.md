@@ -6,7 +6,7 @@ you can find me in other social media:
 1. youtube https://www.youtube.com/@sukoder
 2. instagram https://www.instagram.com/sukoder.me
 
-[![suhri-wrk's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhri-wrk&show_icons=true&theme=radical)](https://github.com/suhri-wrk/github-readme-stats)
+[![suhri-wrk's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhri-wrk&show_icons=true&theme=github_dark)](https://github.com/suhri-wrk/github-readme-stats)
 
 
 
