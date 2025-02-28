@@ -1,7 +1,7 @@
-### Hi there 👋
+## Hi there 👋
 
-Hi there 👋. 
 i am beginner front-end web developer, so that i will make a lot front-end web development project and i will share the code in this github account. 
+
 you can find me in other social media:
 1. youtube https://www.youtube.com/@sukoder
 2. instagram https://www.instagram.com/sukoder.me
