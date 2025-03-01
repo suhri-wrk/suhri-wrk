@@ -4,14 +4,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Suhri!;" />
 </h1>
 
-i am beginner front-end web developer, so that i will make a lot front-end web development project and i will share the code in this github account. 
 
-<!--  
-you can find me in other social media:
-1. youtube https://www.youtube.com/@sukoder
-2. instagram https://www.instagram.com/sukoder.me
--->
-
+<h3 align="center">i am beginner front-end web developer, so that i will make a lot front-end web development project and i will share the code in this github account. </h3>
+<br/>
 <div align="center"> 
   <a href="https://www.youtube.com/@sukoder">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
