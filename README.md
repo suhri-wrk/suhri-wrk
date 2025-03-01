@@ -12,15 +12,23 @@ you can find me in other social media:
 
 
 <div align="center"> 
-  <a> <!-- <a href="mailto:pedro.sales.muniz@gmail.com"> -->
+  <a href="https://www.youtube.com/@sukoder">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a> 
+  <a href="https://www.instagram.com/sukoder.me">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+<!-- |
+  <a href="mailto:pedro.sales.muniz@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a>  <!-- a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank"> -->
+  a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a> <!-- <a href="https://salesp07.github.io" target="_blank"> --->
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
+-->
 </div>
 
  <hr/>
@@ -28,8 +36,19 @@ you can find me in other social media:
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,vscode,git,github,react,bootstrap,tailwind,python" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,vscode,git,github,bootstrap,python" />
+    <!-- <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,vscode,git,github,react,bootstrap,tailwind,python" /> -->
 </div>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
 
 
 
