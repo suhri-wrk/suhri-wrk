@@ -6,10 +6,11 @@
 
 i am beginner front-end web developer, so that i will make a lot front-end web development project and i will share the code in this github account. 
 
+<!--  
 you can find me in other social media:
 1. youtube https://www.youtube.com/@sukoder
 2. instagram https://www.instagram.com/sukoder.me
-
+-->
 
 <div align="center"> 
   <a href="https://www.youtube.com/@sukoder">
@@ -41,7 +42,7 @@ you can find me in other social media:
 </div>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>My Contributions</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
