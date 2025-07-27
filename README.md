@@ -8,10 +8,10 @@
 <h3 align="center">i am beginner front-end web developer, so that i will make a lot front-end web development project and i will share the code in this github account. </h3>
 <br/>
 <div align="center"> 
-  <a href="https://www.youtube.com/@sukoder">
+  <a href="https://youtube.com/@coderngoding">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a> 
-  <a href="https://www.instagram.com/sukoder.me">
+  <a href="https://www.instagram.com/coderngoding">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 <!-- |
