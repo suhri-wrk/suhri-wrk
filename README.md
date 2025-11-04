@@ -8,12 +8,16 @@
 <h3 align="center">i am beginner front-end web developer, so that i will make a lot front-end web development project and i will share the code in this github account. </h3>
 <br/>
 <div align="center"> 
-  <a href="https://youtube.com/@coderngoding">
+    </a>
+    <a href="https://www.linkedin.com/in/suhri-coder/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <!-- <a href="https://youtube.com/@coderngoding">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a> 
+  </a>  -->
   <a href="https://www.instagram.com/coderngoding">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+ 
 <!-- |
   <a href="mailto:pedro.sales.muniz@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
