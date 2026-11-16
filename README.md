@@ -5,7 +5,7 @@
 </h1>
 
 
-<h3 align="center">i am beginner front-end web developer, so that i will make a lot front-end web development project and i will share the code in this github account. </h3>
+<h3 align="center">i am front-end web developer, i will make a lot front-end web development project and i will share the code in this github account. </h3>
 <br/>
 <div align="center"> 
     </a>
